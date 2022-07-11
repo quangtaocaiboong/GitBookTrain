@@ -37,7 +37,7 @@ Major: Information Technology&#x20;
 
 Specialized: Software Engineer&#x20;
 
-School year: 3+&#x20;
+School year: 4+&#x20;
 
 Experiences and main domain:&#x20;
 
