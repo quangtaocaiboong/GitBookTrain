@@ -1,22 +1,30 @@
 # Table of contents
 
-* [Welcome to Quang Huy docs!](README.md)
-* [Quick Start](quick-start.md)
-* [Page 1](page-1.md)
-* [Page 2](page-2.md)
-* [Page 3](page-3.md)
+* [📗 What is Project?](README.md)
 
-## Reference
+## Guides
 
-* [API Reference](reference/api-reference/README.md)
-  * [Pets](reference/api-reference/pets.md)
-  * [Users](reference/api-reference/users.md)
-* [Copy of API Reference](reference/copy-of-api-reference/README.md)
-  * [Pets](reference/copy-of-api-reference/pets.md)
-  * [Users](reference/copy-of-api-reference/users.md)
-* [Copy of Copy of API Reference](reference/copy-of-copy-of-api-reference/README.md)
-  * [Pets](reference/copy-of-copy-of-api-reference/pets.md)
-  * [Users](reference/copy-of-copy-of-api-reference/users.md)
-* [Copy of Copy of Copy of API Reference](reference/copy-of-copy-of-copy-of-api-reference/README.md)
-  * [Pets](reference/copy-of-copy-of-copy-of-api-reference/pets.md)
-  * [Users](reference/copy-of-copy-of-copy-of-api-reference/users.md)
+* [Handbooks](guides/handbooks.md)
+
+## Fundamentals
+
+* [💻 Projects](fundamentals/projects.md)
+* [🕴 Members](fundamentals/members.md)
+* [Task Lists](fundamentals/task-lists.md)
+* [Tasks](fundamentals/tasks.md)
+
+## Use Cases
+
+* [Designers](use-cases/designers.md)
+* [For Engineers](use-cases/for-engineers/README.md)
+  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
+* [For Support](use-cases/for-support/README.md)
+  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
+
+## Progress
+
+* [Sprints](progress/sprints.md)
+
+## Extras
+
+* [References](extras/references.md)
