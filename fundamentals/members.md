@@ -33,10 +33,62 @@ Experiences and main domain:
 
 #### Huỳnh Văn Hạnh
 
+Major: Information Technology&#x20;
+
+Specialized: Software Engineer&#x20;
+
+School year: 3+&#x20;
+
+Experiences and main domain:&#x20;
+
+* HTML/CSS
+* JS
+* ReactJS
+
 **Trần Nhật Hùng**
+
+Major: Information Technology&#x20;
+
+Specialized: Software Engineer&#x20;
+
+School year: 3+&#x20;
+
+Experiences and main domain:&#x20;
+
+* HTML/CSS
+* JS
+* ReactJS
+* Spring
+* Winform
 
 #### Đặng Văn Thành
 
+Major: Information Technology&#x20;
+
+Specialized: Software Engineer&#x20;
+
+School year: 3+&#x20;
+
+Experiences and main domain:&#x20;
+
+* HTML/CSS
+* JS
+* ReactJS
+* Front End Development
+
 #### Mai Trọng Khánh
+
+Major: Information Technology
+
+Specialized: Software Engineer&#x20;
+
+School year: 3+&#x20;
+
+Experiences and main domain:&#x20;
+
+* HTML/CSS
+* JS
+* ReactJS
+* Front End Development
 
 #### Nguyễn Phú Quốc
