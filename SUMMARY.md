@@ -23,7 +23,8 @@
 
 ## Progress
 
-* [Sprints](progress/sprints.md)
+* [Scrum Team](progress/scrum-team.md)
+* [Scrum Events](progress/scrum-events.md)
 
 ## Extras
 
