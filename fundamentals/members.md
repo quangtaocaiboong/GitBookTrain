@@ -11,7 +11,7 @@
 | Trần Nhật Hùng  | 19110213   | Developer   |  Front-end Developer          |
 | Đặng Văn Thành  | 19110287   | Developer   |  Front-end Developer          |
 | Mai Trọng Khánh | 19110225   | Developer   |  Front-end Developer          |
-| Nguyễn Phú Quốc |            | Developer   |  Front-end Developer          |
+| Nguyễn Phú Quốc | 19119124   | Developer   |  Front-end Developer          |
 
 ### Team Members Biography
 
@@ -92,3 +92,16 @@ Experiences and main domain:&#x20;
 * Front End Development
 
 #### Nguyễn Phú Quốc
+
+Major: Information Technology
+
+Specialized: Software Engineer&#x20;
+
+School year: 3+&#x20;
+
+Experiences and main domain:&#x20;
+
+* HTML/CSS
+* JS
+* ReactJS
+* Front End Development
