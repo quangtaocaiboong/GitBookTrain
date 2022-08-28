@@ -4,14 +4,14 @@
 **Disclamer:** Each members participated in this project work in different tasks and give distributions in specific terms.
 {% endhint %}
 
-| Members         | Student ID | Role        | Distribution                  |
-| --------------- | ---------- | ----------- | ----------------------------- |
-| La Quang Huy    | 18110017   | Team Leader | Document, Front-end Developer |
-| Huỳnh Văn Hạnh  | 18110012   | Developer   |  Front-end Developer          |
-| Trần Nhật Hùng  | 19110213   | Developer   |  Front-end Developer          |
-| Đặng Văn Thành  | 19110287   | Developer   |  Front-end Developer          |
-| Mai Trọng Khánh | 19110225   | Developer   |  Front-end Developer          |
-| Nguyễn Phú Quốc | 19119124   | Developer   |  Front-end Developer          |
+| Members         | Student ID | Role                   | Distribution         |
+| --------------- | ---------- | ---------------------- | -------------------- |
+| Trần Nhật Hùng  | 19110213   | Team Leader, Developer |  Front-end Developer |
+| Huỳnh Văn Hạnh  | 18110012   | Developer              |  Front-end Developer |
+| La Quang Huy    | 18110017   | Developer              |  Front-end Developer |
+| Đặng Văn Thành  | 19110287   | Developer              |  Front-end Developer |
+| Mai Trọng Khánh | 19110225   | Developer              |  Front-end Developer |
+| Nguyễn Phú Quốc | 19119124   | Developer              |  Front-end Developer |
 
 ### Team Members Biography
 
